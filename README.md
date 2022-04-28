@@ -5,7 +5,7 @@ This [paper](https://arafathm.github.io/assets/pdf/mah2015b.pdf) presented two n
 Please note that we shared a prelminary version of the proposed 3D approach (i.e. gnldf3D.m function), where only North-South, East-West, and Up-down pixels are used during diffusion. This code can be easily modified for the proposed 2D and 3D approaches. 
 
 ## Citations
-If you find this work useful, please cite the first or all of the following papers:
+If you find this work useful, please cite the following papers:
 ```
 @inproceedings{hussain2015towards,
   title={Towards real-time 3D geometric nonlinear diffusion filter and its application to CT and MR imaging},
